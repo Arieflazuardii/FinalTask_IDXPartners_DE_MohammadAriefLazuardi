@@ -1,6 +1,6 @@
 # VIX-DataEngineer-Test
 
-## Project Based Virtual Internship Program --- Data Engineer Rakamin Academy x ID/X Partners
+## Project Based Virtual Internship Program - Data Engineer ID/X Partners x Rakamin Academy
 
 ### Case Study
 
